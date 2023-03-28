@@ -1,7 +1,8 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
+
 
 <h1 align="center">Hi 👋, I'm CyberSisiCodes</h1>
 <h3 align="center">A passionate Cyber Security and Software Engineering student from Eswatini.</h3>
+<img align="right" alt="Coding" width="400" src="C:\Users\mille\OneDrive\Desktop\coding gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milly801&label=Profile%20views&color=0e75b6&style=flat" alt="milly801" /> </p>
 
