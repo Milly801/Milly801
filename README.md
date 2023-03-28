@@ -1,4 +1,4 @@
- [![MasterHead](https://www.canva.com/design/DAFegDc2ekc/fT7AgDbIA59W1ZkDfufxdA/edit?utm_content=DAFegDc2ekc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
 
 <h1 align="center">Hi 👋, I'm CyberSisiCodes</h1>
 <h3 align="center">A passionate Cyber Security and Software Engineering student from Eswatini.</h3>
