@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Cyber_GirlCodes</h1>
+<h1 align="center">Hi 👋, I'm Cyber_Girl Codes</h1>
 <h3 align="center">A passionate Cyber Security and Software Engineering student from Eswatini.</h3>
 
 ![coding girl](https://user-images.githubusercontent.com/105049231/228482783-ac5723fb-3ee3-41b5-bc0f-0086145a1de4.gif)
