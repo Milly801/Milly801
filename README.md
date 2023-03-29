@@ -1,10 +1,12 @@
 
+![Pink Gaming YouTube Channel Art edited](https://user-images.githubusercontent.com/105049231/228472018-b0682d5d-0068-4f1c-bcfd-428a5033b50a.png)
 
-![Pink Gaming YouTube Channel Art](https://user-images.githubusercontent.com/105049231/228468869-d1dc9237-91f5-427a-99f0-045c52b0e6ae.png)
 
-<h1 align="center">Hi 👋, I'm CyberSisiCodes</h1>
+
+
+<h1 align="center">Hi 👋, I'm Cyber_GirlCodes</h1>
 <h3 align="center">A passionate Cyber Security and Software Engineering student from Eswatini.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milly801&label=Profile%20views&color=0e75b6&style=flat" alt="milly801" /> </p>
 
