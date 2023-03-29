@@ -1,4 +1,6 @@
-[![MasterHead](C:\Users\mille\Downloads\Pink Gaming YouTube Channel Art.png)](https://github.com/Milly801/Milly801/edit/main/README.md#hi-im-Milly--)
+
+
+![Pink Gaming YouTube Channel Art](https://user-images.githubusercontent.com/105049231/228468869-d1dc9237-91f5-427a-99f0-045c52b0e6ae.png)
 
 <h1 align="center">Hi 👋, I'm CyberSisiCodes</h1>
 <h3 align="center">A passionate Cyber Security and Software Engineering student from Eswatini.</h3>
