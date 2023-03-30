@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Cyber_Girl👩🏾‍💻Codes</h1>
-<h3 align="center">A passionate Cyber Security and Software Engineering student from Eswatini.</h3>
+<h3 align="center">A passionate Cyber Security and Software Engineering student from Eswatini🇸🇿.</h3>
 
 ![coding girl](https://user-images.githubusercontent.com/105049231/228482783-ac5723fb-3ee3-41b5-bc0f-0086145a1de4.gif)
 
@@ -15,7 +15,7 @@
 
 - 🔭👩🏾‍💻👩🏾‍🎓I'm currently working on my **Cyber Security degree while also pursuing Software Engineering.**
 
-- 🌱 I’m currently learning **Networking, C Programming, and Linux.**
+- 📚👩🏾‍💻🖊 I’m currently learning **Networking, C Programming, and Linux.**
 
 - 👯 I’m looking to collaborate on **on solving real world problems and anything concerning Cyber Security.**
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **gcwalisilematse186@gmail.com**
 
-- ⚡ Fun fact **about me is that I love cars, obsessed with planes and travelling. Have been to ✈️🇳🇦🇿🇦🇩🇪🇫🇷🇬🇭**
+- ⚡ Fun fact **about me is that I love cars🚗, obsessed with planes and travelling. Have been to ✈️🇳🇦🇿🇦🇩🇪🇫🇷🇬🇭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
